@@ -4,6 +4,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout latest code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Gets all history instead of just the latest
+      
       - name: Run Python
-        run: python hello.py
+        run: |
+          echo "Running latest code:"
+          python hello.py
+          echo "Build completed successfully!"
