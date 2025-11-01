@@ -1,1 +1,1 @@
-print("POLLING AUTOMATION TEST - version 105")
+print("The test is working  - version 105")
