@@ -1,2 +1,6 @@
-print("Hello from CI clean demo! naser(v2)")
-print("this from nase only")
+print("Wllcome to my first github")
+A = 1
+B = 2
+C = A+B
+
+print("the result of B = " + (C))
