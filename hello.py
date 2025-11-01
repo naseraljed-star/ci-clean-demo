@@ -1,1 +1,1 @@
-print("GitHub Actions Auto Build - version 103")
+print("GitHub Actions Auto Build - version 100")
