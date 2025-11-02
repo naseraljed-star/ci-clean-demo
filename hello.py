@@ -1,1 +1,1 @@
-print("KALI FULL AUTOMATION TEST - version 202")
+print("AUTOMATION TEST - version 300")
