@@ -1,1 +1,1 @@
-print("AUTOMATION TEST - version 300")
+print("AUTOMATION TEST - version this the last  updat and thats it ")
