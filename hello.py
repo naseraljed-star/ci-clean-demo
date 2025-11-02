@@ -1,1 +1,1 @@
-print("KALI JENKINS AUTOMATION - version 200")
+print("KALI FULL AUTOMATION TEST - version 201")
